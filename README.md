@@ -1,7 +1,5 @@
 # Kedro-Airflow
-| `develop`                                                                                                                                                                | `master`                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![CircleCI](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/develop.svg?style=shield)](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/develop) | [![CircleCI](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/master.svg?style=shield)](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/master) |
+[![CircleCI](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/master.svg?style=shield)](https://circleci.com/gh/quantumblacklabs/kedro-airflow/tree/master)
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue.svg)](https://pypi.org/project/kedro-airflow/)
