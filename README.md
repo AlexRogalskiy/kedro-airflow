@@ -6,6 +6,10 @@
 [![PyPI Version](https://badge.fury.io/py/kedro-airflow.svg)](https://pypi.org/project/kedro-airflow/)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/ambv/black)
 
+_**Please Note:** As part of our move to the Linux Foundation Kedro-Airflow has been moved to [`kedro-plugins`](https://github.com/kedro-org/kedro-plugins) and this repository will no longer be maintained. Please find an up-to-date copy of Kedro-Airflow [here](https://github.com/kedro-org/kedro-plugins/tree/main/kedro-airflow)._
+
+---
+
 [Apache Airflow](https://github.com/apache/airflow) is a tool for orchestrating complex workflows and data processing pipelines. The Kedro-Airflow plugin can be used for:
 - Rapid pipeline creation in the prototyping phase. You can write Python functions in Kedro without worrying about schedulers, daemons, services or having to recreate the Airflow DAG file.
 - Automatic dependency resolution in Kedro. This allows you to bypass Airflow's need to specify the order of your tasks.
